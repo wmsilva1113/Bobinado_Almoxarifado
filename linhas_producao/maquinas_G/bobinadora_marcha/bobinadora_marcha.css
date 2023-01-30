@@ -25,6 +25,15 @@ body {
     color: aliceblue;
 }
 
+.td {
+    text-align: end;
+}
+
+td {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
 th {
     color: rgb(0, 74, 173);
     background-color: #ffde59;

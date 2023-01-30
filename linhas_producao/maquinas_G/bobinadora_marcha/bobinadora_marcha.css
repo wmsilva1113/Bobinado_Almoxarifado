@@ -29,11 +29,6 @@ body {
     text-align: end;
 }
 
-td {
-    padding-left: 1px;
-    padding-right: 1px;
-}
-
 th {
     color: rgb(0, 74, 173);
     background-color: #ffde59;

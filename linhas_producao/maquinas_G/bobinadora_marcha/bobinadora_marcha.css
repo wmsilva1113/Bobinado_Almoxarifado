@@ -29,6 +29,10 @@ body {
     text-align: end;
 }
 
+.td2 {
+    text-align: center;
+}
+
 th {
     color: rgb(0, 74, 173);
     background-color: #ffde59;

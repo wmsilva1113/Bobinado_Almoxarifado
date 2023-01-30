@@ -20,7 +20,7 @@ body {
 
 .peças, table{
     align-items: center;
-    margin: auto;
+    margin:0px auto;
     text-align: justify;
     color: aliceblue;
 }
@@ -30,8 +30,8 @@ body {
 }
 
 td {
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 1px;
+    padding-right: 1px;
 }
 
 th {
@@ -48,7 +48,7 @@ table, tr, td{
 }
 
 table{
-    width: 95%;
+    width: 97%;
 }
 
 .linha {
